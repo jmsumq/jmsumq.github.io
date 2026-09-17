@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jmsumq.github.io/sitemap.xml

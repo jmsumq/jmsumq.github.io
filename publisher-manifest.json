@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "eb3b68f410ba6e845733ee14",
+  "owner": "jmsumq",
+  "repo": "jmsumq.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "3f59631fa07d381759d2673e",
+      "a": "FastLink",
+      "b": "加速器官网",
+      "entity": "FastLink",
+      "brand": "FastLink",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6d3749ad95ef5296b6d215556a57bac35d06f243ba99e139b4decee6bf8d0845",
+      "content": {
+        "primary_entity": "FastLink",
+        "keyword1": "FastLink",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要跨境访问与流媒体解锁的用户，提供基础版、旗舰版和团队版三种选择。套餐按设备数量、月流量和节点类型区分，可按月或按年订阅。",
+          "AI_HERO_SUBTITLE": "跨境加速方案按需选择",
+          "AI_HERO_INTRO": "FastLink 为不同使用场景提供多档加速套餐，从个人日常浏览到团队多设备协作均可找到匹配方案。选择时先确认设备数量与流量需求，再参考节点类型与订阅周期。",
+          "AI_VISUAL_TITLE": "FastLink 加速服务",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按设备数与流量灵活选择",
+          "AI_HIGHLIGHT_3": "月付年付可选 订阅周期清晰",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "结合设备数量、流量大小和节点偏好挑选套餐，能更准确匹配日常跨境访问需求。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版适合少量设备同时使用，旗舰版适合家庭或小团队，团队版面向较多设备共享的场景。",
+          "AI_FEATURE_TITLE_2": "按流量与周期订阅",
+          "AI_FEATURE_TEXT_2": "月付适合短期试用，年付可降低月均成本。日常流量较大或需要长时间在线的用户可关注高流量套餐。",
+          "AI_FEATURE_TITLE_3": "按节点类型匹配场景",
+          "AI_FEATURE_TEXT_3": "普通线路满足基础访问，IPLC 专线适合游戏与低延迟场景，VIP 高带宽节点适合团队高负载使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，Windows、macOS、Android、iOS 分别安装适配版本，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在设备数量、流量和节点类型上逐级提升，按实际需求选择即可。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备适配与订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量和节点偏好，在基础版、旗舰版或团队版中选定合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与套餐支持的设备数量，避免超出同时在线限制影响使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅信息，按客户端文档完成配置后连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选择 FastLink 套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "两档在月流量、同时在线设备数和线路类型上有区别。基础版适合轻量使用，旗舰版提供更多流量和专线优化，适合高频流媒体或游戏场景。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "根据所选套餐不同，同时在线设备数量有所区别。超出限制可能导致连接失败，建议按实际终端数量选择对应档位。",
+          "AI_FAQ_QUESTION_3": "年付和月付哪种更合适？",
+          "AI_FAQ_ANSWER_3": "如果只是短期尝试，月付更灵活；如果确定长期使用，年付方案在多个档位下平均月成本更低，可以节省开支。",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_4": "获取订阅信息后，打开对应系统的客户端，找到订阅导入入口并粘贴配置，保存后即可选择节点连接。具体步骤参考各客户端文档。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持较多设备同时在线和大流量使用，适合小型团队共享、多设备协作以及需要专属带宽和定制路由的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6261e5153ddbdca717dfa70a231a79520831387127ca877288bcb423d0dc3ee2",
+    "sitemap.xml": "bcd173c2d0dd117206eba6f5e9c5f120f2f9f5c3cbf9ac19802434118f6322b8",
+    "robots.txt": "7ca1dd51fd829dc3ababb8da707783d6be5296b0b61c36a03a8b93a49e41fb73",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "cc590591fb865516a487555c8aad9dcc981c9d42e0a2f8fb76c4971af8fb21a1"
+}
